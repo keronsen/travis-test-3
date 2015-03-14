@@ -8,7 +8,7 @@ Please note that this repository contains pre-release software, and cannot be us
 Appstax CLI 
 ===========
 
-This is the official command-line application [Appstax](http://appstax.com).
+This is the official command-line application for [Appstax](http://appstax.com).
 
 
 Installing
@@ -25,7 +25,8 @@ Installing
 `curl -s http://appstax.com/download/cli/install_linux.sh | sudo /bin/bash`
 
 
-### Building 
+Building from source
+--------------------
 
 You need [go](http://golang.org/) and [goxc](http://github.com/laher/goxc) to build appstax-cli. Go is available from Homebrew: `brew install go`, and goxc is automatically installed when running the build.
 
