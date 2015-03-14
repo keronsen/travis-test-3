@@ -8,7 +8,7 @@ Please note that this repository contains pre-release software, and cannot be us
 Appstax CLI 
 ===========
 
-This is the official command-line application for [Appstax](http://appstax.com).
+This is the official command-line tool for [Appstax](http://appstax.com).
 
 
 Installing
