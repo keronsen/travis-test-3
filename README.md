@@ -14,21 +14,11 @@ This is the official command-line application [Appstax](http://appstax.com).
 Installing
 ----------
 
-*On Mac OSX*, install the latest version from the terminal:
+**Manual installation:** [Download the latest release](https://github.com/appstax/appstax-cli/releases/latest) and copy the appropriate binary to somewhere on your systems `PATH`. **On windows**, you can place it in `c:\Windows\System32`.
 
-```bash
-curl -s http://appstax.com/download/cli/install_osx.sh | sudo /bin/bash
-```
+**Quick install on Mac OSX:**, install the latest version from the terminal: `curl -s http://appstax.com/download/cli/install_osx.sh | sudo /bin/bash`
 
-*On Linux*:
-
-```bash
-curl -s http://appstax.com/download/cli/install_linux.sh | sudo /bin/bash
-```
-
-*On Windows*, [download the latest release](https://github.com/appstax/appstax-cli/releases/latest) and copy appstax.exe into `c:\Windows\System32`.
-
-*For any system* you can also [download the latest release](https://github.com/appstax/appstax-cli/releases/latest) and manually copy the appropriate binary to somewhere on your systems `PATH`.
+**Quick install on Linux:** `curl -s http://appstax.com/download/cli/install_linux.sh | sudo /bin/bash`
 
 
 ### Building 
